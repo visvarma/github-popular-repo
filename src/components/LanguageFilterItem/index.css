@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.filter-button {
+  padding: 5px 20px;
+  background-color: transparent;
+  outline: none;
+  border: 0px;
+  font-weight: bold;
+  font-family: 'Roboto';
+  font-size: 1rem;
+}
+
+.active {
+  color: #0284c7;
+  border: 1px solid #0284c7;
+  border-radius: 20px;
+}
